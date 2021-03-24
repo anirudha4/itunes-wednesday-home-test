@@ -6,6 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+## Snapshot
+![](https://firebasestorage.googleapis.com/v0/b/dynamite-beff5.appspot.com/o/iTunes.jpg?alt=media&token=37aa5c4e-cacc-4b5c-a5a8-e4243c248404)
+
+
 ### `npm start`
 
 Runs the app in the development mode.\
